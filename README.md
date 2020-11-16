@@ -25,7 +25,9 @@ This preview is a colorful Violin Plot of Pokemon types.
 
 ![Preview of Pokemon chart 02](https://github.com/micgonzalez/Data-Visualization-of-Pokemon-Data-with-Python-and-Seaborn_side_project/blob/master/pokemon_chart_02.png)
 
-This preview is a heatmap of Pokemon attack styles. You can try this code from this project in the repository.
+This preview is a heatmap of Pokemon attack styles. 
+
+You can try this code from this project in the repository.
 
 
 
