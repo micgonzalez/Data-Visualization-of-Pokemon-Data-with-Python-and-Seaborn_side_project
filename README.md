@@ -19,11 +19,13 @@ I used the python environment to create data visualizations from Pokemon's fight
 
 # Preview
 
-![Preview of Pokemon chart 01](https://github.com/micgonzalez/Data-Visualization-of-Pokemon-Data-with-Python-and-Seaborn_side_project/blob/master/pokemon_chart_01.png)
+| ![Preview of Pokemon chart 01](https://github.com/micgonzalez/Data-Visualization-of-Pokemon-Data-with-Python-and-Seaborn_side_project/blob/master/pokemon_chart_01.png) |
+|-|
 
 This preview is a colorful Violin Plot of Pokemon types.
 
-![Preview of Pokemon chart 02](https://github.com/micgonzalez/Data-Visualization-of-Pokemon-Data-with-Python-and-Seaborn_side_project/blob/master/pokemon_chart_02.png)
+| ![Preview of Pokemon chart 02](https://github.com/micgonzalez/Data-Visualization-of-Pokemon-Data-with-Python-and-Seaborn_side_project/blob/master/pokemon_chart_02.png) |
+|-|
 
 This preview is a heatmap of Pokemon attack styles. 
 
