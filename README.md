@@ -19,7 +19,7 @@ I used the python environment to create data visualizations from Pokemon's fight
 
 # Preview
 
-| <img src="https://github.com/micgonzalez/Data-Visualization-of-Pokemon-Data-with-Python-and-Seaborn_side_project/blob/master/pokemon_chart_01.png" width="500"/> |
+| <img src="https://github.com/micgonzalez/Data-Visualization-of-Pokemon-Data-with-Python-and-Seaborn_side_project/blob/master/pokemon_chart_01.png" width="450"/> |
 |-|
 
 This preview is a colorful Violin Plot of Pokemon types.
